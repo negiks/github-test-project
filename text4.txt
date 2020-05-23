@@ -1,0 +1,13 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 100A-A876
+
+ Directory of D:\Projects\GitHub\Github Project
+
+23-05-2020  08.45 PM    <DIR>          .
+23-05-2020  08.45 PM    <DIR>          ..
+23-05-2020  03.55 PM               358 text1.txt
+23-05-2020  08.15 PM               408 text2.txt
+23-05-2020  08.33 PM               458 text3.txt
+23-05-2020  08.45 PM                 0 text4.txt
+               4 File(s)          1,224 bytes
+               2 Dir(s)  471,722,663,936 bytes free
